@@ -1,0 +1,2 @@
+SampleKey.env
+telemetry.db
